@@ -16,6 +16,6 @@
  
 ![Wazuh Manager Service](wazuh-manager-service-running.png)
  
-## Wazuh Dashboard and Indexer Services
+## Wazuh Dashboard and Indexer Running
  
-![Wazuh Dashboard and Indexer Services](wazuh-dashboard-and-indexer-services.png)
+![Wazuh Dashboard and Indexer Running](wazuh-dashboard-and-indexer-running.png)
