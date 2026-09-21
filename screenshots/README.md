@@ -18,4 +18,4 @@
  
 ## Wazuh Dashboard and Indexer Running
  
-![Wazuh Dashboard and Indexer Running](wazuh-dashboard-and-indexer-running.png)
+![Wazuh Dashboard and Indexer Running](wazuh-dashboard-indexer-running.png)
