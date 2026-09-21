@@ -1,39 +1,21 @@
-## Project Screenshots
+# Screenshots
  
-### Active Kali Agent
+## Active Kali Agent
  
-screenshots/wazuh-kali-agent-active-dashboard.png
+![Active Kali Agent](wazuh-kali-agent-active-dashboard.png)
  
-This screenshot shows the successful enrollment and active communication of the Kali Linux endpoint with the Wazuh Manager.
+## Wazuh Security Modules
  
----
+![Wazuh Security Modules](wazuh-security-modules-overview.png)
  
-### Wazuh Security Modules
+## Kali Agent Service Status
  
-screenshots/wazuh-security-modules-overview.png
+![Kali Agent Service Status](kali-agent-service-status.png)
  
-This screenshot highlights the available Wazuh monitoring modules including Security Events, Integrity Monitoring, Policy Monitoring, System Auditing, and Security Configuration Assessment.
+## Wazuh Manager Service
  
----
+![Wazuh Manager Service](wazuh-manager-service-running.png)
  
-### Kali Agent Service Status
+## Wazuh Dashboard and Indexer Services
  
-screenshots/kali-agent-service-status.png
- 
-This screenshot confirms that the Wazuh agent service is installed, enabled, and actively running on the Kali Linux endpoint.
- 
----
- 
-### Wazuh Manager Service
- 
-screenshots/wazuh-manager-service-running.png
- 
-This screenshot verifies that the Wazuh Manager service is operational and processing endpoint telemetry.
- 
----
- 
-### Wazuh Dashboard and Indexer Services
- 
-screenshots/wazuh-dashboard-indexer-running.png
- 
-This screenshot confirms that the Wazuh Dashboard and Wazuh Indexer services are running successfully and supporting the SIEM infrastructure.
+![Wazuh Dashboard and Indexer Services](wazuh-dashboard-and-indexer-services.png)
