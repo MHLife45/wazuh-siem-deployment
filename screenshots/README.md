@@ -1,13 +1,19 @@
-## Screenshots
+## Project Screenshots
  
-### Wazuh Dashboard
+### Active Kali Agent
  
-!creenshots/wazuh-agent-active-dashboard.png
+screenshots/wazuh-kali-agent-active-dashboard.png
  
-### Security Modules
+### Wazuh Security Modules
  
-screenshots/wazuh-modules-overview.png
+screenshots/wazuh-security-modules-overview.png
  
-### Kali Agent Status
+### Kali Agent Service Status
  
-screenshots/kali-agent-active-service.png
+screenshots/kali-agent-service-status.png
+ 
+### Wazuh Infrastructure Services
+ 
+screenshots/wazuh-manager-service-running.png
+ 
+screenshots/wazuh-dashboard-indexer-running.png
